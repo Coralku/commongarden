@@ -1,4 +1,4 @@
-Simple R script for analysis of CBASS ED50 top/bottom assignment consistency;
+Simple R script for analysis of CBASS ED50 top/bottom assignment/ranking consistency;
 
 User can chosse the number of top/bottom colonies to consider by assigning X in "item_per_group <- X" (line 22);
 
