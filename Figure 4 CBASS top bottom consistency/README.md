@@ -6,4 +6,4 @@ Sript reads data and checks consistency/correspondence of top/bottom assignment 
 
 Script creates subsets of data to report on consistency in dependency of number of colonies assayed and numbger of top/bottom assignments considered (e.g. top/bottom5 of 20 assessed colonies);
 
-Infile is csv with ID, ED50_1, ED50_2; additiional columnes will be ignored
+Infile is csv with ID, ED50_1, ED50_2; additional columnes will be ignored
